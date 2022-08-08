@@ -1,5 +1,4 @@
 # BuinessCard
-use React to build a basic website
+use js + html + css+ React to build a basic website
 
-
-<img width="414" alt="Screen Shot 2022-08-07 at 9 40 54 PM" src="https://user-images.githubusercontent.com/68130850/183327962-9d5cd6a2-3988-410b-8089-712d4d22f025.png">
+<img width="429" alt="Screen Shot 2022-08-07 at 10 34 19 PM" src="https://user-images.githubusercontent.com/68130850/183328223-4dc51a1e-00c2-42fd-85f3-97e3fcf2d034.png">
