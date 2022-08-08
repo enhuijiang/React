@@ -1,28 +1,4 @@
-# cobc143b6a3172ef8cfd398f2
+# AirbnbExperience
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+use javascript+ html+ css+ figma+ React +props to build a airbnb react website
+<img width="443" alt="Screen Shot 2022-08-08 at 1 35 53 PM" src="https://user-images.githubusercontent.com/68130850/183479391-bae888d8-1c88-4a4f-bd42-cd987115768f.png">
